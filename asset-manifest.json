@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Coffeeman314/Homework-16/static/css/main.1426cb6e.css",
-    "main.js": "/Coffeeman314/Homework-16/static/js/main.be0b5011.js",
-    "index.html": "/Coffeeman314/Homework-16/index.html",
-    "main.1426cb6e.css.map": "/Coffeeman314/Homework-16/static/css/main.1426cb6e.css.map",
-    "main.be0b5011.js.map": "/Coffeeman314/Homework-16/static/js/main.be0b5011.js.map"
+    "main.css": "/Homework-16/static/css/main.1426cb6e.css",
+    "main.js": "/Homework-16/static/js/main.be0b5011.js",
+    "index.html": "/Homework-16/index.html",
+    "main.1426cb6e.css.map": "/Homework-16/static/css/main.1426cb6e.css.map",
+    "main.be0b5011.js.map": "/Homework-16/static/js/main.be0b5011.js.map"
   },
   "entrypoints": [
     "static/css/main.1426cb6e.css",
